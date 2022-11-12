@@ -1,0 +1,8 @@
+Take input from the user, which should be an int between 1 and 8
+
+If the user inputs anything but an int between 1 and 8, tell them to try again
+(use a do-while loop for this part)
+
+Use that input to print out a pyramid of " # "
+
+Every time it iterates, print " i " hashes, then a newline.
