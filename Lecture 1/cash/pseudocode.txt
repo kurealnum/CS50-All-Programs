@@ -1,0 +1,9 @@
+get_cents will get our "starting number" the one that we can start doing stuff with
+
+any of the calculate functions should take only an int as a response (using a do while loop)
+
+from there, we can use the mod function (%) to find the remainder between the response of "get_cents" and whatever kind of coin it is
+
+then, just return it.
+
+A future note to myself, the mod function doesn't work for this, just divide it
