@@ -1,0 +1,11 @@
+Accept a single CLA as our key
+
+If the CLA is not a psoitive int, return an error message and a value of 1.
+
+If the CLA is not a decimal digit, print the error message "Usage: ./caesar key" and return from main with a value of 1 (an error code)
+
+The program should run with any integer above 0 (and under 2^32-26)
+
+Ask the user for plaintext, then print out the ciphertext. Make sure to preserve case as well.
+
+When the program finishes, return 0 from main as an exist status.
