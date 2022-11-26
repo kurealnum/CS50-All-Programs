@@ -1,0 +1,7 @@
+Ask the user for a string, then get the length of that string.
+
+Loop through the string (each character specifically), and find each symbol we're looking for
+
+Tally those up, and do the math in order to add them all together
+
+Print the final statements
