@@ -1,0 +1,4 @@
+Tabulate explanation: my dumb ass is def gonna forget how this works later on soooo;
+loop through voters, and while you're going through each voter, "ask them" (loop through)
+what their choice of candidate is. then check if the candidate is still in the election.
+if they are, add the voters vote to their variable.
